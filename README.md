@@ -1,6 +1,6 @@
-# Carteira Digital 💳
+# 💳 Carteira Digital
 
-Projeto desenvolvido em **Java** com foco em **Programação Orientada a Objetos (POO)**.
+Projeto desenvolvido em **Java**, com foco em **Programação Orientada a Objetos (POO)**.
 
 A aplicação simula uma **carteira digital**, permitindo armazenar valores em diferentes moedas e realizar operações básicas por meio de um menu interativo no console.
 
@@ -21,11 +21,9 @@ A aplicação simula uma **carteira digital**, permitindo armazenar valores em d
 - Java
 - Git & GitHub
 
----
-
 ## 📁 Estrutura do projeto
 
-```text 
+```
 src/
 └── principal/
     ├── Principal.java
@@ -36,6 +34,5 @@ src/
     ├── Dolar.java
     └── Euro.java
 
-
-## ©️ Autor 
+©️ Autor 
 Gabriel Anthony
